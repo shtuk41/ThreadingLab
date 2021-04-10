@@ -1,0 +1,7 @@
+C:\Users\shtuk\Desktop\Files\ThreadingLab\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+C:\Users\shtuk\Desktop\Files\ThreadingLab\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\shtuk\Desktop\Files\ThreadingLab\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\shtuk\Desktop\Files\ThreadingLab\Monitor\bin\Debug\Monitor.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\Monitor\bin\Debug\Monitor.pdb
+C:\Users\shtuk\Desktop\Files\ThreadingLab\Monitor\obj\Debug\Monitor.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\Monitor\obj\Debug\Monitor.pdb

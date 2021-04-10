@@ -1,0 +1,7 @@
+C:\Users\shtuk\Desktop\Files\ThreadingLab\AutoResetEvent\bin\Debug\AutoResetEvent.exe.config
+C:\Users\shtuk\Desktop\Files\ThreadingLab\AutoResetEvent\bin\Debug\AutoResetEvent.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\AutoResetEvent\bin\Debug\AutoResetEvent.pdb
+C:\Users\shtuk\Desktop\Files\ThreadingLab\AutoResetEvent\obj\Debug\AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\shtuk\Desktop\Files\ThreadingLab\AutoResetEvent\obj\Debug\AutoResetEvent.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\AutoResetEvent\obj\Debug\AutoResetEvent.pdb
+C:\Users\shtuk\Desktop\Files\ThreadingLab\AutoResetEvent\obj\Debug\AutoResetEvent.csprojAssemblyReference.cache

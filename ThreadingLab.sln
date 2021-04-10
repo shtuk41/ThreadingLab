@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingLab", "ThreadingLab\ThreadingLab.csproj", "{F58BD44F-BE90-4B24-BDDE-AA549F6AD9F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "Monitor\Monitor.csproj", "{41D35473-3EB1-4C4B-A05E-336BE24D3B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManuelResetEvent", "ManuelResetEvent\ManuelResetEvent.csproj", "{34765FA4-5473-4FED-B566-CA7812CD91B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEvent", "AutoResetEvent\AutoResetEvent.csproj", "{57B0A75D-6C59-400B-A61C-5CC3AC3D05DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58BD44F-BE90-4B24-BDDE-AA549F6AD9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58BD44F-BE90-4B24-BDDE-AA549F6AD9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58BD44F-BE90-4B24-BDDE-AA549F6AD9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58BD44F-BE90-4B24-BDDE-AA549F6AD9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D35473-3EB1-4C4B-A05E-336BE24D3B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D35473-3EB1-4C4B-A05E-336BE24D3B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D35473-3EB1-4C4B-A05E-336BE24D3B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D35473-3EB1-4C4B-A05E-336BE24D3B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34765FA4-5473-4FED-B566-CA7812CD91B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34765FA4-5473-4FED-B566-CA7812CD91B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34765FA4-5473-4FED-B566-CA7812CD91B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34765FA4-5473-4FED-B566-CA7812CD91B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B0A75D-6C59-400B-A61C-5CC3AC3D05DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B0A75D-6C59-400B-A61C-5CC3AC3D05DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B0A75D-6C59-400B-A61C-5CC3AC3D05DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B0A75D-6C59-400B-A61C-5CC3AC3D05DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74BB5F25-BA89-429C-BA2C-3C3924D0564D}
+	EndGlobalSection
+EndGlobal

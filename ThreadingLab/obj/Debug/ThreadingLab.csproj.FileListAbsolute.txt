@@ -1,0 +1,7 @@
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ThreadingLab\obj\Debug\ThreadingLab.csprojAssemblyReference.cache
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ThreadingLab\obj\Debug\ThreadingLab.csproj.CoreCompileInputs.cache
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ThreadingLab\bin\Debug\ThreadingLab.exe.config
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ThreadingLab\bin\Debug\ThreadingLab.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ThreadingLab\bin\Debug\ThreadingLab.pdb
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ThreadingLab\obj\Debug\ThreadingLab.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ThreadingLab\obj\Debug\ThreadingLab.pdb

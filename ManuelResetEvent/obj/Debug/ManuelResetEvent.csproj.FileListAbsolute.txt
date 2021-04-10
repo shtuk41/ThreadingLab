@@ -1,0 +1,7 @@
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ManuelResetEvent\bin\Debug\ManuelResetEvent.exe.config
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ManuelResetEvent\bin\Debug\ManuelResetEvent.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ManuelResetEvent\bin\Debug\ManuelResetEvent.pdb
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ManuelResetEvent\obj\Debug\ManuelResetEvent.csprojAssemblyReference.cache
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ManuelResetEvent\obj\Debug\ManuelResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ManuelResetEvent\obj\Debug\ManuelResetEvent.exe
+C:\Users\shtuk\Desktop\Files\ThreadingLab\ManuelResetEvent\obj\Debug\ManuelResetEvent.pdb
